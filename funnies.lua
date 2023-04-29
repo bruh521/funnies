@@ -18,7 +18,7 @@ return {
 			"did you know FE2 stands for FLOOD ESCAPE 2",
 			"did you know that fe2 was supossed to be called ESCAPE FROM GRANDMAS HOUSE 2?",
 			"did you know carzyblox drank his own piss because he thought it was lemonade?",
-			"im so good at the video game"
-			"aaaaaaaaaaaaaaaaaaaa!"
-			"i need to go to the bathroom 💩💩💩"
+			"im so good at the video game",
+			"guys imagine someone imaginging someone that is imaginging",
+			"i need to go to the bathroom 💩💩💩",
 		}
