@@ -22,4 +22,5 @@ return {
 			"guys imagine someone imaginging someone that is imaginging",
 			"i need to go to the bathroom 💩💩💩",
 			"i forgor how to pee 💀",
+			"ayo? 🤨"
 		}
